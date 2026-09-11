@@ -27,6 +27,15 @@
       "skillFolderHash": "76a98a285cb0434f3d39e1a873823556330e398b",
       "installedAt": "2026-09-05T02:42:20.075Z",
       "updatedAt": "2026-09-05T02:42:20.075Z"
+    },
+    "simple-english": {
+      "source": "AminBlg/SimpleEnglish",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/AminBlg/SimpleEnglish.git",
+      "skillPath": "skills/simple-english/SKILL.md",
+      "skillFolderHash": "7d780ce604b8ec3ccf6ad64b61aff131436d746b",
+      "installedAt": "2026-09-11T13:38:04.186Z",
+      "updatedAt": "2026-09-11T13:38:04.186Z"
     }
   },
   "dismissed": {
@@ -34,14 +43,13 @@
   },
   "lastSelectedAgents": [
     "amp",
-    "antigravity",
-    "antigravity-cli",
     "cline",
     "codex",
     "cursor",
-    "deepagents",
+    "droid",
     "gemini-cli",
     "github-copilot",
+    "kilo",
     "kimi-code-cli",
     "opencode",
     "warp",
